@@ -1,0 +1,2 @@
+trabalhos/trabalho_01/Covid1.csv filter=lfs diff=lfs merge=lfs -text
+trabalhos/trabalho_01/Covid2.csv filter=lfs diff=lfs merge=lfs -text
