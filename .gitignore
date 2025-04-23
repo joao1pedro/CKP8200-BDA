@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignore dataset large files (LFS storage full)
+trabalhos/trabalho_01/Covid1.csv
+trabalhos/trabalho_01/Covid2.csv
